@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hs_tutorialbtn",
-    "path": "sprites/spr_hs_tutorialbtn/spr_hs_tutorialbtn.yy",
+    "name": "spr_tutorial_button",
+    "path": "sprites/spr_tutorial_button/spr_tutorial_button.yy",
   },
   "solid": false,
   "visible": true,

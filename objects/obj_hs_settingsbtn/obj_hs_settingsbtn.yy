@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hs_settingsbtn",
-    "path": "sprites/spr_hs_settingsbtn/spr_hs_settingsbtn.yy",
+    "name": "spr_settings",
+    "path": "sprites/spr_settings/spr_settings.yy",
   },
   "solid": false,
   "visible": true,
