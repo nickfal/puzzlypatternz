@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hs_playbtn",
-    "path": "sprites/spr_hs_playbtn/spr_hs_playbtn.yy",
+    "name": "spr_tray",
+    "path": "sprites/spr_tray/spr_tray.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_hs_playbtn","path":"objects/obj_hs_playbtn/obj_hs_playbtn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_hs_playbtn",
+  "name": "obj_tray",
   "tags": [],
   "resourceType": "GMObject",
 }
