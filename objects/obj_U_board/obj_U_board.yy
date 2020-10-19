@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_U_piece",
-    "path": "sprites/spr_U_piece/spr_U_piece.yy",
+    "name": "spr_U_board",
+    "path": "sprites/spr_U_board/spr_U_board.yy",
   },
   "solid": false,
   "visible": true,

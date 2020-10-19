@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_L_piece",
-    "path": "sprites/spr_L_piece/spr_L_piece.yy",
+    "name": "spr_L_board",
+    "path": "sprites/spr_L_board/spr_L_board.yy",
   },
   "solid": false,
   "visible": true,

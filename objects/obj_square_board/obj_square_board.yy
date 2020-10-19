@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_square_piece",
-    "path": "sprites/spr_square_piece/spr_square_piece.yy",
+    "name": "spr_square_board",
+    "path": "sprites/spr_square_board/spr_square_board.yy",
   },
   "solid": false,
   "visible": true,

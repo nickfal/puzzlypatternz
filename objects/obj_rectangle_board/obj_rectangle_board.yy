@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_rectangle_piece",
-    "path": "sprites/spr_rectangle_piece/spr_rectangle_piece.yy",
+    "name": "spr_rectangle_board",
+    "path": "sprites/spr_rectangle_board/spr_rectangle_board.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_rectangle_piece","path":"objects/obj_rectangle_piece/obj_rectangle_piece.yy",},"parent":{"name":"obj_rectangle_board","path":"objects/obj_rectangle_board/obj_rectangle_board.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_rectangle_board","path":"objects/obj_rectangle_board/obj_rectangle_board.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

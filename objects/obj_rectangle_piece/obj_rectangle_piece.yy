@@ -22,6 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_rectangle_piece","path":"objects/obj_rectangle_piece/obj_rectangle_piece.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_rectangle_board","path":"objects/obj_rectangle_board/obj_rectangle_board.yy",},"parent":{"name":"obj_rectangle_piece","path":"objects/obj_rectangle_piece/obj_rectangle_piece.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
