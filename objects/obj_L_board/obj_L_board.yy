@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "dont_need",
+    "path": "folders/Objects/dont_need.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_L_board",
