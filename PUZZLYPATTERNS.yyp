@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"roo_level1","path":"rooms/roo_level1/roo_level1.yy",},"order":1,},
+    {"id":{"name":"roo_scrapped","path":"rooms/roo_scrapped/roo_scrapped.yy",},"order":1,},
     {"id":{"name":"spr_piecebox","path":"sprites/spr_piecebox/spr_piecebox.yy",},"order":6,},
     {"id":{"name":"obj_U_board","path":"objects/obj_U_board/obj_U_board.yy",},"order":9,},
     {"id":{"name":"synth2","path":"sounds/synth2/synth2.yy",},"order":2,},
@@ -14,7 +14,7 @@
     {"id":{"name":"hum2","path":"sounds/hum2/hum2.yy",},"order":6,},
     {"id":{"name":"spr_resume","path":"sprites/spr_resume/spr_resume.yy",},"order":26,},
     {"id":{"name":"confirmation","path":"sounds/confirmation/confirmation.yy",},"order":11,},
-    {"id":{"name":"roo_ex_1","path":"rooms/roo_ex_1/roo_ex_1.yy",},"order":2,},
+    {"id":{"name":"roo_level1","path":"rooms/roo_level1/roo_level1.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"spr_L_piece","path":"sprites/spr_L_piece/spr_L_piece.yy",},"order":7,},
     {"id":{"name":"harp1","path":"sounds/harp1/harp1.yy",},"order":9,},
@@ -39,6 +39,7 @@
     {"id":{"name":"spr_pause","path":"sprites/spr_pause/spr_pause.yy",},"order":20,},
     {"id":{"name":"obj_T_right","path":"objects/obj_T_right/obj_T_right.yy",},"order":20,},
     {"id":{"name":"spr_hs_title","path":"sprites/spr_hs_title/spr_hs_title.yy",},"order":1,},
+    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},"order":5,},
     {"id":{"name":"spr_hs_settingsbtn","path":"sprites/spr_hs_settingsbtn/spr_hs_settingsbtn.yy",},"order":3,},
     {"id":{"name":"spr_tutorial_button","path":"sprites/spr_tutorial_button/spr_tutorial_button.yy",},"order":18,},
     {"id":{"name":"obj_L_board","path":"objects/obj_L_board/obj_L_board.yy",},"order":6,},
@@ -85,10 +86,11 @@
   },
   "RoomOrder": [
     {"name":"roo_homescreen","path":"rooms/roo_homescreen/roo_homescreen.yy",},
+    {"name":"roo_scrapped","path":"rooms/roo_scrapped/roo_scrapped.yy",},
     {"name":"roo_level1","path":"rooms/roo_level1/roo_level1.yy",},
-    {"name":"roo_ex_1","path":"rooms/roo_ex_1/roo_ex_1.yy",},
     {"name":"roo_Tutorial","path":"rooms/roo_Tutorial/roo_Tutorial.yy",},
     {"name":"roo_paused","path":"rooms/roo_paused/roo_paused.yy",},
+    {"name":"Room6","path":"rooms/Room6/Room6.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
