@@ -22,3 +22,8 @@ if(obj_goal1.goal_design[location[0]][location[1]] == 1) {
 	y = obj_goal1.y + location[0]*_dist;
 	audio_play_sound(thump, 0, 0);
 }
+
+
+//Movement Stuff
+grab = false;
+depth = -1;

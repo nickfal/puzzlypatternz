@@ -9,3 +9,9 @@ design[2][1] = 1;
 design[0][2] = 0;
 design[1][2] = 1;
 design[2][2] = 0;
+
+
+// Movement Stuff
+grab = false;
+xx = 0;
+yy = 0;
