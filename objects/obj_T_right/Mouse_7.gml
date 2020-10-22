@@ -25,5 +25,6 @@ if(obj_goal1.goal_design[location[0]][location[1]] == 1) {
 
 
 //Movement Stuff
+obj_Mechanics.mouse_grabbing = false;
 grab = false;
 depth = -1;
