@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_settings",
-    "path": "sprites/spr_settings/spr_settings.yy",
+    "name": "spr_return",
+    "path": "sprites/spr_return/spr_return.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_hs_settingsbtn","path":"objects/obj_hs_settingsbtn/obj_hs_settingsbtn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_return","path":"objects/obj_return/obj_return.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_hs_settingsbtn",
+  "name": "obj_return",
   "tags": [],
   "resourceType": "GMObject",
 }
