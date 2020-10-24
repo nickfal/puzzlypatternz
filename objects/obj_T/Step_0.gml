@@ -1,10 +1,11 @@
 //Movement Stuff
-if (grab == false)
+if(mouse_grabbing == 1)
 {
-	exit;
-}
-else
-{
-	x = mouse_x + xx;
-	y = mouse_y + yy;
+	if (grab == false){
+		exit;
+	}
+	else{
+		x = mouse_x + xx;
+		y = mouse_y + yy;
+	}
 }
