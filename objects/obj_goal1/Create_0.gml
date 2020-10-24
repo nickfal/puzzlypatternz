@@ -1,10 +1,10 @@
 /// @description Creates a goal of shape goal_design[5][10]
 // You can write your code in this editor
-goal_design[0][0] = 1;
+goal_design[0][0] = 0;
 goal_design[1][0] = 0;
 goal_design[2][0] = 0;
 goal_design[3][0] = 0;
-goal_design[4][0] = 1;
+goal_design[4][0] = 0;
 
 goal_design[0][1] = 0;
 goal_design[1][1] = 0;
@@ -54,8 +54,8 @@ goal_design[2][8] = 0;
 goal_design[3][8] = 0;
 goal_design[4][8] = 0;
 
-goal_design[0][9] = 1;
+goal_design[0][9] = 0;
 goal_design[1][9] = 0;
 goal_design[2][9] = 0;
 goal_design[3][9] = 0;
-goal_design[4][9] = 1;
+goal_design[4][9] = 0;
