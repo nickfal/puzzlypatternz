@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"synth2","path":"sounds/synth2/synth2.yy",},"order":2,},
-    {"id":{"name":"obj_GoToPreviousRoom","path":"objects/obj_GoToPreviousRoom/obj_GoToPreviousRoom.yy",},"order":2,},
     {"id":{"name":"obj_goal1","path":"objects/obj_goal1/obj_goal1.yy",},"order":0,},
     {"id":{"name":"spr_mainmenu","path":"sprites/spr_mainmenu/spr_mainmenu.yy",},"order":27,},
     {"id":{"name":"hum2","path":"sounds/hum2/hum2.yy",},"order":6,},
