@@ -10,6 +10,8 @@ design[0][2] = 0;
 design[1][2] = 1;
 design[2][2] = 0;
 
+// Goal Sensing Stuff
+in_place = false;
 
 // Movement Stuff
 grab = false;

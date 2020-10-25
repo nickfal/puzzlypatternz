@@ -1,5 +1,6 @@
 /// @description Creates a goal of shape goal_design[5][10]
-// You can write your code in this editor
+// To display a square, change the corresponding value in
+//       goal_design[row][col] to 1
 goal_design[0][0] = 0;
 goal_design[1][0] = 0;
 goal_design[2][0] = 0;
@@ -59,3 +60,10 @@ goal_design[1][9] = 0;
 goal_design[2][9] = 0;
 goal_design[3][9] = 0;
 goal_design[4][9] = 0;
+
+// The currently filled squares of the goal (initialized empty)
+for(row = 0; row < array_length(goal_design); ++row){
+	for(col = 0; col < array_length(goal_design[0]); ++col){
+		goal_filled[row][col] = 0;
+	}
+}
