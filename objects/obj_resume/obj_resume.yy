@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_resume",
-    "path": "sprites/spr_resume/spr_resume.yy",
+    "name": "spr_resume_new",
+    "path": "sprites/spr_resume_new/spr_resume_new.yy",
   },
   "solid": false,
   "visible": true,

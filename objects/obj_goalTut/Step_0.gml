@@ -8,5 +8,5 @@ for(row = 0; row < array_length(goal_design); ++row){
 
 // The goal has been completed
 if(match) {
-	// SEND THEM TO THE CONGRATULATIONS SCREEN HERE
+	room_goto(roo_congrats);
 }
