@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_random1",
-    "path": "sprites/spr_random1/spr_random1.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "other_objects",
-    "path": "folders/Objects/other_objects.yy",
+    "name": "buttons",
+    "path": "folders/Objects/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_random1",
+  "name": "obj_level1",
   "tags": [],
   "resourceType": "GMObject",
 }

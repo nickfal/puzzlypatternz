@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_random1",
-    "path": "sprites/spr_random1/spr_random1.yy",
+    "name": "spr_level2",
+    "path": "sprites/spr_level2/spr_level2.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_level2","path":"objects/obj_level2/obj_level2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "other_objects",
-    "path": "folders/Objects/other_objects.yy",
+    "name": "buttons",
+    "path": "folders/Objects/buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_random1",
+  "name": "obj_level2",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Objects/pieces/Level 1.yy",
+    "name": "pieces",
+    "path": "folders/Objects/pieces.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_T_right",
