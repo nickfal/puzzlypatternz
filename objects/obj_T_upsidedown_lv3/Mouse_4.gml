@@ -4,9 +4,9 @@ if(in_place) {
 	for(row = 0; row < array_length(design); ++row){
 		for(col = 0; col < array_length(design[0]); ++col){
 			var _dist = 44;
-			goal_row = round((y - obj_goalTut.y) / _dist);
-			goal_col = round((x - obj_goalTut.x) / _dist);
-			if(design[row][col] == 1) obj_goalTut.goal_filled[goal_row +
+			goal_row = round((y - obj_goal3.y) / _dist);
+			goal_col = round((x - obj_goal3.x) / _dist);
+			if(design[row][col] == 1) obj_goal3.goal_filled[goal_row +
 										row - 1][goal_col + col - 1] = 0;
 		}
 	}
