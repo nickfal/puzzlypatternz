@@ -6,7 +6,7 @@ location[0] = 0;
 location[1] = 0;
 least_dist = sqrt(sqr(x - obj_goal1.x) + sqr(y - obj_goal1.y));
 
-// Finds the closest value in obj_goal1.goal_design to this object's
+// Finds the closest value in obj_goal2.goal_design to this object's
 //       x and y
 for(row = 0; row < array_length(obj_goal1.goal_design); ++row){
 	for(col = 0; col < array_length(obj_goal1.goal_design[0]); ++col){
