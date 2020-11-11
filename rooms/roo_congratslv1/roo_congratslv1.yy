@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_level2","path":"objects/obj_level2/obj_level2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7402595,"scaleY":0.60408175,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":336.467529,"y":671.608154,"resourceVersion":"1.0","name":"inst_5BFA4CA4","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_level2","path":"objects/obj_level2/obj_level2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.844155669,"scaleY":0.60408175,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":367.532471,"y":671.608154,"resourceVersion":"1.0","name":"inst_5BFA4CA4","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_3","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"spr_congrats","path":"sprites/spr_congrats/spr_congrats.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.163991168,"scaleY":0.117031395,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":160.0,"resourceVersion":"1.0","name":"graphic_29A0B23D","tags":[],"resourceType":"GMRSpriteGraphic",},
