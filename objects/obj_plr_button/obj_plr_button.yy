@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_plr_button","path":"objects/obj_plr_button/obj_plr_button.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_plr_button","path":"objects/obj_plr_button/obj_plr_button.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":2,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_plr_button","path":"objects/obj_plr_button/obj_plr_button.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
