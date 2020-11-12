@@ -63,7 +63,7 @@
   },
   "parent": {
     "name": "Levels",
-    "path": "folders/Rooms/Levels.yy",
+    "path": "folders/Paths/Rooms/Levels.yy",
   },
   "resourceVersion": "1.0",
   "name": "roo_level1",

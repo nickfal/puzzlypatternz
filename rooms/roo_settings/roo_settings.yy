@@ -60,7 +60,7 @@
   },
   "parent": {
     "name": "Screens",
-    "path": "folders/Rooms/Screens.yy",
+    "path": "folders/Paths/Rooms/Screens.yy",
   },
   "resourceVersion": "1.0",
   "name": "roo_settings",
