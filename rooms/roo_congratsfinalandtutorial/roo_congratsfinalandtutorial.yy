@@ -69,8 +69,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Screens",
-    "path": "folders/Paths/Rooms/Screens.yy",
+    "name": "Congrats",
+    "path": "folders/Rooms/Screens/Congrats.yy",
   },
   "resourceVersion": "1.0",
   "name": "roo_congratsfinalandtutorial",
