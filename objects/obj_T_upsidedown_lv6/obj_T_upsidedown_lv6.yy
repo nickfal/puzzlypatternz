@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level6",
-    "path": "folders/Objects/pieces/Level6.yy",
+    "name": "Level 6",
+    "path": "folders/Objects/pieces/Level 6.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_T_upsidedown_lv6",

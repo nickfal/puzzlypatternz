@@ -64,7 +64,7 @@
   },
   "parent": {
     "name": "Levels",
-    "path": "folders/Paths/Rooms/Levels.yy",
+    "path": "folders/Rooms/Levels.yy",
   },
   "resourceVersion": "1.0",
   "name": "roo_tutorial",

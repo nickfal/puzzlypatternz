@@ -74,7 +74,7 @@
   },
   "parent": {
     "name": "Congrats",
-    "path": "folders/Rooms/Screens/Congrats.yy",
+    "path": "folders/Rooms/Congrats.yy",
   },
   "resourceVersion": "1.0",
   "name": "roo_congratslv2",
