@@ -34,7 +34,7 @@ if(obj_goal11.goal_design[location[0]][location[1]] == 1) {
 				// Outside of grid (left):
 				else if(col == 0 && location[1] == 0) still_valid = false;
 				// Outside of grid (bottom):
-				else if(row == 2 && location[0] == 4) still_valid = false;
+				else if(row == 2 && location[0] == 5) still_valid = false;
 				// Outside of grid (right):
 				else if(col == 2 && location[1] == 9) still_valid = false;
 				

@@ -23,13 +23,13 @@ goal_design[0][3] = 1;
 goal_design[1][3] = 1;
 goal_design[2][3] = 1;
 goal_design[3][3] = 1;
-goal_design[4][3] = 0;
+goal_design[4][3] = 1;
 
 goal_design[0][4] = 0;
 goal_design[1][4] = 0;
 goal_design[2][4] = 0;
 goal_design[3][4] = 1;
-goal_design[4][4] = 0;
+goal_design[4][4] = 1;
 
 goal_design[0][5] = 0;
 goal_design[1][5] = 0;
@@ -61,6 +61,16 @@ goal_design[2][9] = 0;
 goal_design[3][9] = 0;
 goal_design[4][9] = 0;
 
+goal_design[5][0] = 0;
+goal_design[5][1] = 0;
+goal_design[5][2] = 1;
+goal_design[5][3] = 0;
+goal_design[5][4] = 0;
+goal_design[5][5] = 1;
+goal_design[5][6] = 0;
+goal_design[5][7] = 0;
+goal_design[5][8] = 0;
+goal_design[5][9] = 0;
 
 
 // The currently filled squares of the goal (initialized empty)
