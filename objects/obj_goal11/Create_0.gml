@@ -5,13 +5,13 @@ goal_design[0][0] = 1;
 goal_design[1][0] = 1;
 goal_design[2][0] = 0;
 goal_design[3][0] = 0;
-goal_design[4][0] = 1;
+goal_design[4][0] = 0;
 
 goal_design[0][1] = 0;
 goal_design[1][1] = 1;
-goal_design[2][1] = 1;
+goal_design[2][1] = 0;
 goal_design[3][1] = 0;
-goal_design[4][1] = 1;
+goal_design[4][1] = 0;
 
 goal_design[0][2] = 0;
 goal_design[1][2] = 1;
@@ -29,13 +29,13 @@ goal_design[0][4] = 0;
 goal_design[1][4] = 0;
 goal_design[2][4] = 1;
 goal_design[3][4] = 1;
-goal_design[4][4] = 0;
+goal_design[4][4] = 1;
 
 goal_design[0][5] = 0;
 goal_design[1][5] = 0;
 goal_design[2][5] = 1;
 goal_design[3][5] = 1;
-goal_design[4][5] = 0;
+goal_design[4][5] = 1;
 
 goal_design[0][6] = 0;
 goal_design[1][6] = 1;
@@ -52,25 +52,36 @@ goal_design[4][7] = 1;
 goal_design[0][8] = 0;
 goal_design[1][8] = 1;
 goal_design[2][8] = 1;
-goal_design[3][8] = 0;
+goal_design[3][8] = 1;
 goal_design[4][8] = 1;
 
 goal_design[0][9] = 1;
 goal_design[1][9] = 1;
 goal_design[2][9] = 0;
-goal_design[3][9] = 0;
-goal_design[4][9] = 1;
+goal_design[3][9] = 1;
+goal_design[4][9] = 0;
 
 goal_design[5][0] = 1;
-goal_design[5][1] = 0;
-goal_design[5][2] = 0;
-goal_design[5][3] = 0;
+goal_design[5][1] = 1;
+goal_design[5][2] = 1;
+goal_design[5][3] = 1;
 goal_design[5][4] = 0;
 goal_design[5][5] = 0;
-goal_design[5][6] = 0;
-goal_design[5][7] = 0;
-goal_design[5][8] = 0;
+goal_design[5][6] = 1;
+goal_design[5][7] = 1;
+goal_design[5][8] = 1;
 goal_design[5][9] = 1;
+
+goal_design[6][0] = 1;
+goal_design[6][1] = 0;
+goal_design[6][2] = 0;
+goal_design[6][3] = 0;
+goal_design[6][4] = 0;
+goal_design[6][5] = 0;
+goal_design[6][6] = 0;
+goal_design[6][7] = 0;
+goal_design[6][8] = 0;
+goal_design[6][9] = 1;
 
 
 

@@ -35,7 +35,7 @@ goal_design[0][5] = 1;
 goal_design[1][5] = 1;
 goal_design[2][5] = 1;
 goal_design[3][5] = 1;
-goal_design[4][5] = 1;
+goal_design[4][5] = 0;
 
 goal_design[0][6] = 0;
 goal_design[1][6] = 1;
