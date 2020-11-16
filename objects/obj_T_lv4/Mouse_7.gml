@@ -67,6 +67,6 @@ if(obj_goal4.goal_design[location[0]][location[1]] == 1) {
 
 
 //Movement Stuff
-mouse_grabbing = mouse_grabbing - 1;
+mouse_grabbed = false;
 grab = false;
 depth = -1

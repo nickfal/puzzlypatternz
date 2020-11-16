@@ -1,2 +1,2 @@
-globalvar mouse_grabbing;
-mouse_grabbing = 0;
+globalvar mouse_grabbed;
+mouse_grabbed = 0;
