@@ -62,6 +62,7 @@ if(obj_goal1.goal_design[location[0]][location[1]] == 1) {
 		}
 		in_place = true;
 		audio_play_sound(thump, 0, 0);
+		effect_create_above(ef_ellipse, mouse_x,mouse_y,200,c_yellow);
 	}
 }
 

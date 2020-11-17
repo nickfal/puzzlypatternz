@@ -16,6 +16,24 @@ if (mouse_check_button_pressed(mb_left)) {
 
 if (on_piece) {
 	// Goal Sensing Stuff
+	
+	part_emitter_region(part_system, part_emitter, mouse_x-32, mouse_x+32, mouse_y-32, mouse_y+32,
+	ps_shape_diamond, ps_distr_invgaussian);
+	
+	
+	//effect_create_above(part_system, part_emitter, mouse_x-32, mouse_x+32, mouse_y-32, mouse_y+32,
+	//ps_shape_diamond, ps_distr_invgaussian);
+	
+	//part_emitter_burst(part_system, part_emitter, part_type, 4);
+
+	
+	
+	effect_create_above(ef_ellipse, mouse_x,mouse_y,50,c_lime);
+	
+	
+	
+
+	
 	if(in_place) {
 		for(row = 0; row < array_length(design); ++row){
 			for(col = 0; col < array_length(design[0]); ++col){
@@ -24,6 +42,7 @@ if (on_piece) {
 				goal_col = round((x - obj_goal3.x) / _dist);
 				if(design[row][col] == 1) obj_goal3.goal_filled[goal_row +
 											row - 1][goal_col + col - 1] = 0;
+						
 			}
 		}
 		in_place = false;

@@ -16,6 +16,7 @@ if (mouse_check_button_pressed(mb_left)) {
 
 if (on_piece) {
 	// Goal Sensing Stuff
+	effect_create_above(ef_ellipse, mouse_x,mouse_y,50,c_fuchsia);
 	if(in_place) {
 		for(row = 0; row < array_length(design); ++row){
 			for(col = 0; col < array_length(design[0]); ++col){

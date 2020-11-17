@@ -19,3 +19,4 @@ globalvar level_2_5;
 level_2_5 = 0;
 globalvar level_2_6;
 level_2_6 = 0;
+script_execute(particles());
