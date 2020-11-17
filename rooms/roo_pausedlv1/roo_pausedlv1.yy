@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mainmenu","path":"objects/obj_mainmenu/obj_mainmenu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.48899746,"scaleY":1.27959192,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":862.563354,"resourceVersion":"1.0","name":"inst_53D6F295","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_resumelv1","path":"objects/obj_resumelv1/obj_resumelv1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.96753263,"scaleY":1.30204082,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":192.000015,"resourceVersion":"1.0","name":"inst_2F928194","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_settingslv1","path":"objects/obj_settingslv1/obj_settingslv1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.92903244,"scaleY":1.13061225,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":512.0,"resourceVersion":"1.0","name":"inst_7D524799","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
@@ -26,7 +25,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_53D6F295","path":"rooms/roo_pausedlv1/roo_pausedlv1.yy",},
     {"name":"inst_2F928194","path":"rooms/roo_pausedlv1/roo_pausedlv1.yy",},
     {"name":"inst_7D524799","path":"rooms/roo_pausedlv1/roo_pausedlv1.yy",},
   ],

@@ -24,12 +24,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2/spr_level2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2/spr_level2.yy",},"LayerId":{"name":"35658ba5-fefe-400b-aa7f-0291dd0800aa","path":"sprites/spr_level2/spr_level2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_level2","path":"sprites/spr_level2/spr_level2.yy",},"resourceVersion":"1.0","name":"736d1185-246f-45ad-9a10-22199f77983a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},"LayerId":{"name":"","path":"",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},"LayerId":{"name":"35658ba5-fefe-400b-aa7f-0291dd0800aa","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_level2_locked","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},"resourceVersion":"1.0","name":"736d1185-246f-45ad-9a10-22199f77983a","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_level2","path":"sprites/spr_level2/spr_level2.yy",},
+    "spriteId": {"name":"spr_level2_locked","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +42,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"9b90e1f2-2663-413d-8e5f-3a41b8570ab8","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2/spr_level2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"aefb12a7-d76b-4cb3-b1e6-ec58bb64910a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"736d1185-246f-45ad-9a10-22199f77983a","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +59,9 @@
     "yorigin": 124,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_level2","path":"sprites/spr_level2/spr_level2.yy",},
+    "parent": {"name":"spr_level2_locked","path":"sprites/spr_level2_locked/spr_level2_locked.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_level2",
+    "name": "spr_level2_locked",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -68,11 +69,11 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"35658ba5-fefe-400b-aa7f-0291dd0800aa","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Levels",
-    "path": "folders/Sprites/Levels.yy",
+    "name": "Locked Levels",
+    "path": "folders/Sprites/Locked Levels.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_level2",
+  "name": "spr_level2_locked",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mainmenu","path":"objects/obj_mainmenu/obj_mainmenu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.48899746,"scaleY":1.27959192,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":862.563354,"resourceVersion":"1.0","name":"inst_53D6F295","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_resumelv3","path":"objects/obj_resumelv3/obj_resumelv3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.9870131,"scaleY":1.26122451,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1008.00006,"y":191.085724,"resourceVersion":"1.0","name":"inst_6EB00CDA","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_settingslv3","path":"objects/obj_settingslv3/obj_settingslv3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.032258,"scaleY":1.13061225,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":990.9677,"y":512.0,"resourceVersion":"1.0","name":"inst_658C1A0A","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
@@ -26,7 +25,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_53D6F295","path":"rooms/roo_pausedlv3/roo_pausedlv3.yy",},
     {"name":"inst_6EB00CDA","path":"rooms/roo_pausedlv3/roo_pausedlv3.yy",},
     {"name":"inst_658C1A0A","path":"rooms/roo_pausedlv3/roo_pausedlv3.yy",},
   ],

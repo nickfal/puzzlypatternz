@@ -1,0 +1,21 @@
+globalvar level_1_2;
+level_1_2 = 0;
+globalvar level_1_3;
+level_1_3 = 0;
+globalvar level_1_4;
+level_1_4 = 0;
+globalvar level_1_5;
+level_1_5 = 0;
+globalvar level_1_6;
+level_1_6 = 0;
+
+globalvar level_2_2;
+level_2_2 = 0;
+globalvar level_2_3;
+level_2_3 = 0;
+globalvar level_2_4;
+level_2_4 = 0;
+globalvar level_2_5;
+level_2_5 = 0;
+globalvar level_2_6;
+level_2_6 = 0;
