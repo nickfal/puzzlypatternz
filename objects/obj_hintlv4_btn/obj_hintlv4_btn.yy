@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level 1",
-    "path": "folders/Objects/pieces/Level 1.yy",
+    "name": "Level 4",
+    "path": "folders/Objects/pieces/Level 4.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_hintlv4_btn",
