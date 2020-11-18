@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_song6",
-    "path": "sprites/spr_song6/spr_song6.yy",
+    "name": "spr_song5",
+    "path": "sprites/spr_song5/spr_song5.yy",
   },
   "solid": false,
   "visible": true,
