@@ -18,6 +18,9 @@ globalvar level_11;
 level_11 = 0;
 globalvar level_12;
 level_12 = 0;
+audio_stop_all();
+
+audio_play_sound(piano1, 0, 1);
 
 
 script_execute(particles());

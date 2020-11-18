@@ -1,7 +1,9 @@
-/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+/// @DnDAction : YoYo Games.Audio.Stop_Audio
 /// @DnDVersion : 1
-/// @DnDHash : 3F827B6F
-audio_stop_all();
+/// @DnDHash : 262B536C
+/// @DnDArgument : "soundid" "clapping"
+/// @DnDSaveInfo : "soundid" "clapping"
+audio_stop_sound(clapping);
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
