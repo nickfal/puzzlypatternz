@@ -14,7 +14,8 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mainmenu","path":"objects/obj_mainmenu/obj_mainmenu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.530562341,"scaleY":0.608163238,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":640.0,"resourceVersion":"1.0","name":"inst_401D85B0","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mainmenu","path":"objects/obj_mainmenu/obj_mainmenu.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.530562341,"scaleY":0.738775432,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1056.0,"y":608.0,"resourceVersion":"1.0","name":"inst_401D85B0","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_level12","path":"objects/obj_level12/obj_level12.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.7935484,"scaleY":0.7387755,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":608.0,"resourceVersion":"1.0","name":"inst_4B4969E6","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_3","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"spr_congrats","path":"sprites/spr_congrats/spr_congrats.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.163991168,"scaleY":0.117031395,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":160.0,"resourceVersion":"1.0","name":"graphic_29A0B23D","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -47,6 +48,7 @@
     {"name":"inst_223B30FD","path":"rooms/roo_congratslv11/roo_congratslv11.yy",},
     {"name":"inst_15CA459D","path":"rooms/roo_congratslv11/roo_congratslv11.yy",},
     {"name":"inst_401D85B0","path":"rooms/roo_congratslv11/roo_congratslv11.yy",},
+    {"name":"inst_4B4969E6","path":"rooms/roo_congratslv11/roo_congratslv11.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

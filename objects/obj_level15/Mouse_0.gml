@@ -1,3 +1,3 @@
-if(level_12 == 1){
-	room_goto(roo_level12);
+if(level_15 == 1){
+	room_goto(roo_level15);
 }

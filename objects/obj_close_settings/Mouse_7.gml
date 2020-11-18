@@ -1,3 +1,9 @@
 obj_settings_screen.visible = false;
 visible = false;
 mouse_grabbed = false;
+obj_song1_settings.visible = false;
+obj_song2_settings.visible = false;
+obj_song3_settings.visible = false;
+obj_song4_settings.visible = false;
+obj_song5_settings.visible = false;
+obj_mainmenu_settings.visible = false;

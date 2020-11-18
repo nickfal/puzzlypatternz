@@ -10,5 +10,5 @@ for(row = 0; row < array_length(goal_design); ++row){
 if(match) {
 	room_goto(roo_congratslv11);
 	level_12 = 1;
-	object_set_sprite(obj_level2,spr_level2)
+	object_set_sprite(obj_level12,spr_level12)
 }
