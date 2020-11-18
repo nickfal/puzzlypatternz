@@ -1,0 +1,1 @@
+if(visible) mouse_grabbed = true;
