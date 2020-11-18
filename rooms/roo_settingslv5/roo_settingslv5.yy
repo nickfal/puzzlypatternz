@@ -15,6 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"particlesys","path":"objects/particlesys/particlesys.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":352.0,"resourceVersion":"1.0","name":"inst_D99EFC","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_song5","path":"objects/obj_song5/obj_song5.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.3253012,"scaleY":0.3469388,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":351.999939,"resourceVersion":"1.0","name":"inst_3DB7B349","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.1918506,"scaleY":0.1170314,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":128.0,"resourceVersion":"1.0","name":"graphic_6002CECE","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -30,6 +31,7 @@
   "instanceCreationOrder": [
     {"name":"inst_32D80174","path":"rooms/roo_settingslv5/roo_settingslv5.yy",},
     {"name":"inst_D99EFC","path":"rooms/roo_settingslv5/roo_settingslv5.yy",},
+    {"name":"inst_3DB7B349","path":"rooms/roo_settingslv5/roo_settingslv5.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
