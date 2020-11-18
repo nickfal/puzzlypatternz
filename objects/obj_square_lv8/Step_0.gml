@@ -16,7 +16,6 @@ if (mouse_check_button_pressed(mb_left)) {
 
 if (on_piece) {
 	// Goal Sensing Stuff
-	effect_create_above(ef_ellipse, mouse_x,mouse_y,50,c_orange);
 	if(in_place) {
 		for(row = 0; row < array_length(design); ++row){
 			for(col = 0; col < array_length(design[0]); ++col){
@@ -31,11 +30,10 @@ if (on_piece) {
 	}
 
 	//Movement Stuff
-	
+	if(!mouse_grabbed) {
 	x = mouse_x;
 	y = mouse_y;
-	
-	if(!mouse_grabbed) {
+	effect_create_above(ef_ellipse, mouse_x,mouse_y,50,c_orange);
 		mouse_grabbed = true;
 		grab = true;
 		depth = -2;
