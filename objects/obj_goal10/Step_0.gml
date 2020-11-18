@@ -9,4 +9,6 @@ for(row = 0; row < array_length(goal_design); ++row){
 // The goal has been completed
 if(match) {
 	room_goto(roo_congratslv10);
+	level_11 = 1;
+	object_set_sprite(obj_level11,spr_level11)
 }

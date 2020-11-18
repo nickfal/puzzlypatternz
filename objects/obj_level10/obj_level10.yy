@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_level10",
-    "path": "sprites/spr_level10/spr_level10.yy",
+    "name": "spr_level10_locked",
+    "path": "sprites/spr_level10_locked/spr_level10_locked.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,13 +21,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_level10","path":"objects/obj_level10/obj_level10.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_level10","path":"objects/obj_level10/obj_level10.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "levels",
+    "path": "folders/Objects/levels.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_level10",
