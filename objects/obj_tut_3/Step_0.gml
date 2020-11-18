@@ -30,11 +30,10 @@ if (on_piece) {
 	}
 
 	//Movement Stuff
-	
-	x = mouse_x;
-	y = mouse_y;
-	
 	if(!mouse_grabbed) {
+		effect_create_above(ef_ellipse, mouse_x,mouse_y,50,c_red);
+		x = mouse_x;
+		y = mouse_y;
 		mouse_grabbed = true;
 		grab = true;
 		depth = -2;
