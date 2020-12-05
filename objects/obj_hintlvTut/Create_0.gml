@@ -3,5 +3,6 @@ var _dist = 44;
 r = 4;
 c = 4;
 
+depth = -2;
 x = obj_goalTut.x + c*_dist;
 y = obj_goalTut.y + r*_dist;

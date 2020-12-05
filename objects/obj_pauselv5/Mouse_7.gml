@@ -13,5 +13,4 @@ game_save("save.dat");
 /// @DnDVersion : 1
 /// @DnDHash : 5648284B
 /// @DnDArgument : "room" "roo_pausedlv5"
-/// @DnDSaveInfo : "room" "roo_pausedlv5"
 room_goto(roo_pausedlv5);

@@ -2,5 +2,4 @@
 /// @DnDVersion : 1
 /// @DnDHash : 1F8190C1
 /// @DnDArgument : "room" "roo_pausedlv5"
-/// @DnDSaveInfo : "room" "roo_pausedlv5"
 room_goto(roo_pausedlv5);
