@@ -289,7 +289,7 @@
     {"id":{"name":"obj_T","path":"objects/obj_T/obj_T.yy",},"order":1,},
     {"id":{"name":"roo_level17","path":"rooms/roo_level17/roo_level17.yy",},"order":15,},
     {"id":{"name":"obj_song1","path":"objects/obj_song1/obj_song1.yy",},"order":7,},
-    {"id":{"name":"obj_slider","path":"objects/obj_slider/obj_slider.yy",},"order":51,},
+    {"id":{"name":"obj_sliderfail","path":"objects/obj_sliderfail/obj_sliderfail.yy",},"order":51,},
     {"id":{"name":"spr_settings_tray","path":"sprites/spr_settings_tray/spr_settings_tray.yy",},"order":53,},
     {"id":{"name":"obj_tray","path":"objects/obj_tray/obj_tray.yy",},"order":0,},
     {"id":{"name":"obj_goal13","path":"objects/obj_goal13/obj_goal13.yy",},"order":13,},
