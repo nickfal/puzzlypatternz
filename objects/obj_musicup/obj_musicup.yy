@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_piece_part_darkred",
-    "path": "sprites/spr_piece_part_darkred/spr_piece_part_darkred.yy",
+    "name": "spr_up1",
+    "path": "sprites/spr_up1/spr_up1.yy",
   },
   "solid": false,
   "visible": true,
