@@ -23,3 +23,6 @@ audio_stop_all();
 audio_play_sound(piano2, 0, 1);
 
 script_execute(particles());
+
+globalvar lastRoom;
+lastRoom = roo_level1;
